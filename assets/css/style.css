@@ -644,6 +644,12 @@ text-align: center;
                 width: 400px;
                 margin-left: 180px;
             }
+            .sevensection .col-md-12 {
+                -ms-flex: 0 0 100%;
+                flex: 0 0 100%;
+                max-width: 300px;
+                margin-left: 60px;
+            }
 
         
          
